@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VolunteerPortal-Web/static/css/main.3ff26afb.css",
-    "main.js": "/VolunteerPortal-Web/static/js/main.9d7a7af8.js",
-    "index.html": "/VolunteerPortal-Web/index.html",
-    "main.3ff26afb.css.map": "/VolunteerPortal-Web/static/css/main.3ff26afb.css.map",
-    "main.9d7a7af8.js.map": "/VolunteerPortal-Web/static/js/main.9d7a7af8.js.map"
+    "main.css": "/static/css/main.3ff26afb.css",
+    "main.js": "/static/js/main.64f558a9.js",
+    "index.html": "/index.html",
+    "main.3ff26afb.css.map": "/static/css/main.3ff26afb.css.map",
+    "main.64f558a9.js.map": "/static/js/main.64f558a9.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff26afb.css",
-    "static/js/main.9d7a7af8.js"
+    "static/js/main.64f558a9.js"
   ]
 }
